@@ -45,4 +45,5 @@ Software engineering student with a focus on Java and JavaScript, proficient in 
 ### Badges
 <b>My GitHub Stats</b>
 </br>
-<a href="http://www.github.com/elhanafimohammedamine"><img src="https://github-readme-streak-stats.herokuapp.com/ user=elhanafimohammedamine&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/elhanafimohammedamine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elhanafimohammedamine&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
