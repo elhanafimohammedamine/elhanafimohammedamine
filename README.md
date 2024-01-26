@@ -27,18 +27,19 @@ Software engineering student with a focus on Java and JavaScript, proficient in 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="http://www.medium.com/mohammedamineelhanafi" target="_blank" rel="noreferrer">
+                      <a href="http://www.medium.com/@mohammedamineelhanafi" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.x.com/elhanafi_amine" target="_blank" rel="noreferrer">
+                      <a href="https://www.x.com/@elhanafi_amine" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/elhanafimohammedamine"><img src="https://github-readme-stats.vercel.app/api?username=elhanafimohammedamine&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&show_icons=true" alt="elhanafimohammedamine's GitHub stats" /></a>
+                      href="http://www.github.com/elhanafimohammedamine"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=elhanafimohammedamine&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/elhanafimohammedamine" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhanafimohammedamine&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
